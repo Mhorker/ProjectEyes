@@ -1,3 +1,9 @@
 # ProjectEyes
 EyesProject
-Test 1
+
+Membres : 
+- Eddin
+- Seb
+- Florian
+- Paul
+- Gaël
