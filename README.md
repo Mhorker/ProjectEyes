@@ -1,5 +1,7 @@
-# ProjectEyes
+﻿# ProjectEyes
 EyesProject
+
+L'hiver, je me contract. L'été je deviens moite. Qui suis-je ?
 
 Membres : 
 - Eddin
